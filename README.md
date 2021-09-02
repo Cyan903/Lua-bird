@@ -1,5 +1,5 @@
 # Flappy-Bird-Lua
-About 7 hours ago from the time writing this, I challenged myself to learn a language as fast as possible. I decided to learn lua because its a very straightforward language and is used by a lot of programs.
+About 7 hours ago at the time of writing this, I challenged myself to learn a language as fast as possible. I decided to learn lua because its a very straightforward language and is used by a lot of programs.
 
 ![Screenshot](https://i.imgur.com/MuwbsXx.png)
 
