@@ -1,12 +1,17 @@
-# Flappy-Bird-Lua
-About 7 hours ago at the time of writing this, I challenged myself to learn a language as fast as possible. I decided to learn lua because its a very straightforward language and is used by a lot of programs.
+# Lua-bird
 
-![Screenshot](https://raw.githubusercontent.com/CyanPiano/static-github/main/flappy-bird-lua/flappy-bird.png)
+![repo-size](https://img.shields.io/github/repo-size/Cyan903/Lua-bird) ![last-commit](https://img.shields.io/github/last-commit/Cyan903/Lua-bird)
 
-I made this using [love2d](https://love2d.org/). The tutorials were fairly easy to follow and I had a pretty fun time making this. While I didn't spend much time learning love2d, I feel pretty confident with lua and I'm pretty happy with the final product.
+A simple flappy bird clone made for learning the language. Made with [love2d](https://love2d.org/).
 
-### Install
-After installing love2d and lua you can simply run the program with:
+<img src="resources/game.png" align="center" />
+
+## Install
+
+Love2D is required to run the game. You can install it [here](https://love2d.org/).
+
 ```sh
-love .
+$ git clone https://github.com/Cyan903/Lua-bird.git
+$ cd Lua-bird
+$ love .
 ```
